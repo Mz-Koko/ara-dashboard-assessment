@@ -31,3 +31,4 @@ stripe-events.txt
 
 # IDE files
 .idea/
+.github/workflows/
